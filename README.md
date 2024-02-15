@@ -1,5 +1,6 @@
 👋Oi sou o @emanuelnascimento233 👀Fazendo faculdade na Unipaulistana sobre ADS
 Estou iniciando Back-end  
+
  <div align="center">
    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?
    username=emanuelnascimento233&show_icons=true&count_private=true&hide_border=true&title_color=9745f5&icon_color=9f4bff&text_color=ffffff&bg_color=000000" alt="Emanuel Santos github stats" /> 
