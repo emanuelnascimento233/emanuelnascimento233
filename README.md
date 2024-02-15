@@ -17,4 +17,10 @@ Estou iniciando Back-end
   <img align="center" alt"emanuelnascimento233" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/emanuelnascimento233/count.svg" /></p> 
+<br>
+</div>
+
    
